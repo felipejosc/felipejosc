@@ -27,5 +27,4 @@ Currently studying Information Systems at Instituto Federal de Alagoas.
 ## Contact
 
 Email: felipejoscs@gmail.com  
-LinkedIn: add your link here  
-GitHub: add your link here
+LinkedIn: www.linkedin.com/in/felipe-josé-cs
