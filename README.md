@@ -24,14 +24,6 @@ Currently studying Information Systems at Instituto Federal de Alagoas.
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-## Projects
-
-SQL Agent  
-Natural language to SQL using Python, FastAPI and PostgreSQL.
-
-Machine Learning Model Deployment  
-Model inference service using FastAPI, Docker, MLflow and DVC.
-
 ## Contact
 
 Email: felipejoscs@gmail.com  
