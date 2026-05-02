@@ -1,10 +1,10 @@
 # Felipe José
 
-Data Engineer focused on building reliable data pipelines, automating workflows and turning raw data into business ready datasets.
+Data Engineer focused on building scalable data pipelines, cloud-based data platforms and trusted analytical layers that turn raw data into business-ready insights.
 
-I work with Python, SQL, Spark, Airflow, dbt, PostgreSQL, AWS and GCP.
+I work with Python, SQL, Apache Airflow, dbt, PySpark, PostgreSQL, AWS, Redshift, BigQuery and GCP, with experience in ETL/ELT, Medallion Architecture and Data Lakehouse environments.
 
-Experience with ETL and ELT, data quality, dimensional modeling, SQL optimization and analytics environments.
+My background includes API integrations, SQL optimization, dimensional modeling, data quality, workflow automation and delivering reliable datasets for product, growth and finance teams.
 
 Currently studying Information Systems at Instituto Federal de Alagoas.
 
